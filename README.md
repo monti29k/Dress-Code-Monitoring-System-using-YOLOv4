@@ -1,5 +1,5 @@
 # Dress-Code-Monitoring-System-using-YOLOv4
-A Framework for Dress Code Monitoring System using Transfer Learning from Pre-Trained YOLOv4 Model - a model for detecting dress code in workplaces and educational institutions using CNN-based object detection.
+A Framework for Dress Code Monitoring System using Transfer Learning from Pre-Trained YOLOv4 Model
 
 • Developed a model for detecting dress code in workplaces and educational institutions using CNN-based object detection.
 
