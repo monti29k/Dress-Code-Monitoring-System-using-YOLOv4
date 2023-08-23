@@ -8,3 +8,5 @@ prediction accuracy of 76.13%.
 
 • Used computer vision, deep learning, and data preprocessing techniques, contributing to the development of a practical and 
 effective solution for maintaining proper attire in formal setting.
+
+Paper : https://ieeexplore.ieee.org/document/10151460
